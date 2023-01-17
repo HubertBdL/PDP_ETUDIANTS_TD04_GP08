@@ -7,7 +7,6 @@
 #define SENSOR 33
 #define LED 26
 
-
 DHT_Unified dht(SENSOR, DHTTYPE);
 
 void setup() {
